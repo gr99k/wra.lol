@@ -1,6 +1,8 @@
 <div align="center">
 
 # Hey I'm greek
+  
+![](https://komarev.com/ghpvc/?username=gr99k&color=blueviolet)
 
 ![gr99k's GitHub stats](https://github-readme-stats.vercel.app/api?username=gr99k&show_icons=true&theme=radical)
 

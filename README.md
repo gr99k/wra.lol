@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey I'm greek
+# Hey I'm greek 👋
   
 ![](https://komarev.com/ghpvc/?username=gr99k&color=blueviolet)
 
@@ -17,6 +17,6 @@ I started learning how to code about 2019-2020 aswell as learning about how comp
 * Javascript (learning)
 * C++ (learning)
 
-## goals
+## Goals
 * Learn C++
 * Get a job as a electrical engineer
